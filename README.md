@@ -6,7 +6,6 @@
 
 [![NuGet](https://img.shields.io/nuget/v/Glutinum.Feliz.ReactQuillNew.svg)](https://www.nuget.org/packages/Glutinum.Feliz.ReactQuillNew)
 
-
 <!-- To learn how to use the template please refer to MANUAL.md -->
 
 <!-- You can put the documentation for your binding below -->
